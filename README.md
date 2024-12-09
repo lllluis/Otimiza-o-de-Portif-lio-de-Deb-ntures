@@ -8,10 +8,8 @@ O objetivo deste projeto é desenvolver um modelo abrangente para a otimização
 
 ## Estrutura do Repositório
 
-- **Código-Fonte**: Scripts desenvolvidos em [linguagem utilizada, por exemplo, Python, R] para a implementação dos modelos de otimização.
+- **Código-Fonte**: Scripts desenvolvidos em [linguagem utilizada, Python] para a implementação dos modelos de otimização.
 - **Dados**: Conjuntos de dados utilizados nas análises, incluindo informações sobre debêntures emitidas no mercado brasileiro.
-- **Documentação**: Arquivos README adicionais, guias de uso e documentação técnica.
-- **Resultados**: Relatórios, gráficos e outros materiais gerados a partir das análises conduzidas.
 
 ## Como Utilizar
 
@@ -19,9 +17,6 @@ O objetivo deste projeto é desenvolver um modelo abrangente para a otimização
     ```bash
     git clone https://github.com/lllluis/Otimiza-o-de-Portif-lio-de-Deb-ntures.git
     ```
-
-2. **Instalar Dependências**:
-    - [Instruções sobre como instalar as dependências necessárias, por exemplo, utilizando `pip` ou `conda` para Python.]
 
 3. **Executar os Scripts**:
     - [Instruções sobre como executar os scripts de análise e otimização.]
